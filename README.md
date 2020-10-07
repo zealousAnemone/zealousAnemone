@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello 世界! 👋
 
 <!--
 **zealousAnemone/zealousAnemone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
