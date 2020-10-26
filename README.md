@@ -1,5 +1,8 @@
 ### Hello 世界! 👋
 
+<a href="https://github.com/zealousAnemone/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zealousAnemone&show_icons=true&theme=algolia" />
+</a>
 <!--
 **zealousAnemone/zealousAnemone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
