@@ -1,6 +1,7 @@
 ### Hello 世界! 👋
 
 I am a librarian by day, software developer by night, who loves solving problems and making things work using technology. 
+---
 <a href="https://github.com/zealousAnemone/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zealousAnemone&show_icons=true&theme=algolia" />
 </a>
